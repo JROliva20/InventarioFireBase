@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230908918022",
+    "project_id": "inventariotiemporeal-60877",
+    "storage_bucket": "inventariotiemporeal-60877.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230908918022:android:422ced1d40a87847550687",
+        "android_client_info": {
+          "package_name": "com.example.inventariofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrYFVNDhpgsv5ymifXTpbZVrGMOJhOgHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
